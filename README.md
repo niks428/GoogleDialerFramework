@@ -12,6 +12,7 @@ After version 4 it also features the "PIXEL_EXPERIENCE" feature for the device, 
 ### Instructions
 * __Install__ the Google Dialer Framework Magisk Module
 * __Clear__ Play Store __Data__
+* __Clear__ Google Play Services__Data__
 * __Restart__ Phone or Restart Play Store
 * __Install__ Google Phone from Play Store
 * Set Google Dialer as the __Default Dialer__
